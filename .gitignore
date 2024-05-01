@@ -117,3 +117,5 @@ notebooks/*.html
 .vscode
 
 .DS_Store
+rasters/*.png
+single_trial_latents/*.png
